@@ -7,6 +7,7 @@ import os
 
 def menu():
     print(" 0 : Quitter")
+    print('sa')
     print(" 1 : Enregistrer un numero")
     print(" 2 : Recherche un numero")
     print(" 3 pour supprimer")
